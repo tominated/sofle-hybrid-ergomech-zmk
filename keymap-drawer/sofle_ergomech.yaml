@@ -58,8 +58,8 @@ layers:
   - ENTER
   - BACKSPACE
   - raise
-  - RALT
-  - RGUI
+  - DELETE
+  - GLOBE
   - PLAY PAUSE
   - NEXT
   - UP ARROW

@@ -207,7 +207,7 @@ layers:
   - ''
   - ''
   - ''
-  - ''
+  - '&bootloader'
   - EP TOG
   - RGB HUD
   - RGB HUI

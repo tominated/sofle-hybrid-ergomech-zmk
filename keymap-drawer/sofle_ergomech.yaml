@@ -115,7 +115,7 @@ layers:
   - \
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&bootloader'
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
@@ -189,7 +189,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&bootloader'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -249,8 +249,8 @@ layers:
   - ''
   - {type: held}
   - ''
-  - '&bootloader'
-  - '&bootloader'
+  - ''
+  - ''
   - ''
   - ''
   - ''

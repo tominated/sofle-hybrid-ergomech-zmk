@@ -166,7 +166,7 @@ layers:
   - DOWN
   - RIGHT
   - {type: held}
-  - {t: ▽, type: trans}
+  - PLAY PAUSE
   - {t: ▽, type: trans}
   - UNDO
   - CUT
@@ -175,8 +175,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - PREV
+  - NEXT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}

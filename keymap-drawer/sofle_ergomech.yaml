@@ -60,7 +60,7 @@ layers:
   - raise
   - DELETE
   - GLOBE
-  - PLAY PAUSE
+  - PP
   - NEXT
   - UP ARROW
   - PREV
@@ -166,7 +166,7 @@ layers:
   - DOWN
   - RIGHT
   - {type: held}
-  - PLAY PAUSE
+  - PP
   - {t: ▽, type: trans}
   - UNDO
   - CUT

@@ -50,20 +50,20 @@ layers:
   - /
   - RSHFT
   - MUTE
-  - LCTRL
+  - LEFT GUI
   - LALT
   - lower
   - SPACE
-  - LEFT META
+  - LCTRL
   - ENTER
   - BACKSPACE
   - raise
   - DELETE
   - GLOBE
-  - PP
-  - NEXT
+  - ENTER
+  - RIGHT ARROW
   - UP ARROW
-  - PREV
+  - LEFT ARROW
   - DOWN
   lower:
   - '&studio_unlock'

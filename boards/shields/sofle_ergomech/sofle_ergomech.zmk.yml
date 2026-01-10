@@ -11,5 +11,6 @@ features:
   - encoder
   - underglow
 siblings:
+  - sofle_ergomech_dongle
   - sofle_ergomech_left
   - sofle_ergomech_right

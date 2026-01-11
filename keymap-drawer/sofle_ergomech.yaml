@@ -49,7 +49,7 @@ layers:
   - .
   - /
   - RSHFT
-  - MUTE
+  - ''
   - LEFT GUI
   - LALT
   - lower

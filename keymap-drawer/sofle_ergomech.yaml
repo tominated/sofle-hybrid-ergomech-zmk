@@ -87,8 +87,8 @@ layers:
   - {t: ▽, type: trans}
   - +
   - '='
-  - (
-  - )
+  - '{'
+  - '}'
   - F12
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -99,8 +99,8 @@ layers:
   - {t: ▽, type: trans}
   - '-'
   - _
-  - '['
-  - ']'
+  - (
+  - )
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -111,8 +111,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - ;
-  - '{'
-  - '}'
+  - '['
+  - ']'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '&bootloader'
@@ -260,3 +260,24 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+combos:
+- p: [32, 31]
+  k: '-'
+- p: [32, 33]
+  k: (
+- p: [33, 34]
+  k: )
+- p: [20, 21]
+  k: '{'
+- p: [21, 22]
+  k: '}'
+- p: [44, 45]
+  k: '['
+- p: [46, 45]
+  k: ']'
+- p: [19, 20]
+  k: _
+- p: [43, 44]
+  k: '='
+- p: [30, 31]
+  k: +

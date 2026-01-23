@@ -55,7 +55,7 @@ layers:
   - lower
   - SPACE
   - LCTRL
-  - ENTER
+  - {t: ENTER, h: LEFT SHIFT}
   - BACKSPACE
   - raise
   - DELETE
@@ -291,3 +291,19 @@ combos:
 - p: [30, 31]
   k: +
   l: [default]
+- p: [13, 25]
+  k: '!'
+- p: [14, 26]
+  k: '@'
+- p: [15, 27]
+  k: '#'
+- p: [16, 28]
+  k: $
+- p: [17, 29]
+  k: '%'
+- p: [18, 30]
+  k: ^
+- p: [19, 31]
+  k: '&'
+- p: [20, 32]
+  k: '*'

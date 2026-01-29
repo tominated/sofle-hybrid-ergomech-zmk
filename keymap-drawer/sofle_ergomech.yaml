@@ -55,7 +55,7 @@ layers:
   - lower
   - SPACE
   - LCTRL
-  - {t: ENTER, h: LEFT SHIFT}
+  - '&enter_shift_alt'
   - BACKSPACE
   - raise
   - DELETE
